@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Dicle</h1>
 <h3 align="center">Computer Engineer</h3>
 
-- 🌱 I am currently working on Java (Spring Framework) to further my knowledge in backend development.
-
 - 📫 How to reach me **diclekilic79@gmail.com**
 
 <h4 align="left">Contact me and learn more about my experiences:</h4>
